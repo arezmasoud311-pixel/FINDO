@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "FDT to OLT Auto-Lookup",
+  "version": "2.1",
+  "description": "Scans web pages for FDT identifiers and displays their corresponding OLT.",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://sas4.tarik-althuraya.net/*",
+        "https://tierbill.tarik-althuraya.net/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ]
+}
