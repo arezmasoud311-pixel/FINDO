@@ -8,8 +8,7 @@
       "matches": [
         "https://sas4.tarik-althuraya.net/*",
         "https://tierbill.tarik-althuraya.net/*",
-
-         ],
+      ],
       "js": [
         "content.js"
       ],
