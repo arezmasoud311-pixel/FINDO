@@ -8,6 +8,7 @@
       "matches": [
         "https://sas4.tarik-althuraya.net/*",
         "https://tierbill.tarik-althuraya.net/*"
+        "https://docs.google.com/spreadsheets/d/1-90YtxWMpRqDfOhPVeWqnuG0GSxhMVH3hzuXHqgu99w/edit?gid=0#gid=0"
       ],
       "js": [
         "content.js"
